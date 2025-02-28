@@ -1,0 +1,7 @@
+UN|EMP|LOY|ED: Computer science majors after graduation
+CS|HA|RP: An instrument of programming
+ERR|OR: New password cannot be the same as old password
+VE|IN|ED: Lined with vessels
+SQ|UID: S-Money
+GR|APE: Angry monkey
+SN|ACK|SH|ACK: Cereal (pound), TCP, Bash, TCP
